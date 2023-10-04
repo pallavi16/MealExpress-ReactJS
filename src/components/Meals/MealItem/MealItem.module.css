@@ -1,0 +1,26 @@
+.meal {
+    border-bottom: 2px solid rgb(181, 181, 181);
+    padding-bottom: 1rem;
+    justify-content: space-between;
+    width: 80%;
+    display: flex;
+}
+
+
+h3{
+    font-size: 24px;
+    margin-bottom: 2px;
+    color: black;
+    letter-spacing: 2px;
+}
+
+.price{
+    color: brown;
+    font-size: 14px;
+}
+
+
+.description{
+    font-style: italic;
+    font-size: 14px;
+}

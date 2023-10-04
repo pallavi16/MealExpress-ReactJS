@@ -1,0 +1,15 @@
+
+.card{
+    background-color: whitesmoke;
+    color: black;
+    list-style: none;
+    display: block;
+    width: 80%;
+    max-width: 55rem;
+    height: 40%;
+    margin: auto;
+    margin-top: -40px;
+    box-shadow: 10px 5px 5px gray;
+    padding: 20px;
+    border-radius: 10px;
+}
